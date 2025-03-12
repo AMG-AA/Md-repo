@@ -18,3 +18,11 @@ url = 'https://carrera.deloitteslatam.com/search/?createNewAlert=false&q=&locati
 
 #### Tools
 ##### Notes
+
+- [ ] Create a new repo
+- [ ] Desing schema of the project
+- [ ] Deifne the tools to use
+- [ ] Make a calendar to complete task's
+- [ ] Develop the project
+- [ ] Send the project to CS50 check
+- [ ] Obatain certificate
