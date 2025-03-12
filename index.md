@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 hi = 'Hello, Universe'
 
 # URL del sitio web
-url = '[https://carrera.deloitteslatam.com/search/?createNewAlert=false&q=&locationsearch=monterrey](https://amg-aa.github.io/Md-repo/)'
+url = 'https://amg-aa.github.io/Md-repo/'
 ```
 
 #### Tools
